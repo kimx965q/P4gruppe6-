@@ -1,0 +1,174 @@
+* {
+    padding: 0;
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding-top: 0rem;
+    font-size: 40px;
+    color: white;
+}
+
+.milmus {
+    padding: 10px;
+    background-color: #414a4f;
+}
+
+.styleguide {
+    padding: 10px;
+    background-color: #44857d;
+}
+
+.divider {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 30px;
+    font-style: oblique;
+    padding-top: 20px;
+    color: grey;
+}
+
+.line {
+    background-color: grey;
+    padding: 2px;
+    padding-right: 36rem
+}
+
+
+
+.farver {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    padding-top: 40px;
+}
+
+.farve1 {
+    padding: 1px;
+    display: flex;
+}
+
+.midnightblue {
+    background-color: #003d59;
+    padding: 40px;
+    margin: 20px;
+    padding-bottom: 20px;
+    border-radius: 100%;
+}
+
+.farve2 {
+    padding: 1px;
+    display: flex;
+}
+
+.lightorange {
+    background-color: #fb9334;
+    padding: 40px;
+    margin: 20px;
+    padding-bottom: 20px;
+    border-radius: 100%;
+}
+
+.farve3 {
+    padding: 1px;
+    display: flex;
+}
+
+.lightteal {
+    background-color: #44857d;
+    padding: 40px;
+    margin: 20px;
+    padding-bottom: 20px;
+    border-radius: 100%;
+
+    
+}
+
+
+.farver2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 40px;
+}
+
+
+
+.farve4 {
+    padding: 1px;
+    display: flex;
+}
+
+.mediumgrey {
+    background-color: #414a4f;
+    padding: 40px;
+    margin: 20px;
+    padding-bottom: 20px;
+    border-radius: 100%;
+}
+
+.farve5 {
+    padding: 1px;
+    display: flex;
+}
+
+.darkorange {
+    background-color: #fe6625;
+    padding: 40px;
+    margin: 20px;
+    padding-bottom: 20px;
+    border-radius: 100%;
+}
+
+.farve6 {
+    padding: 1px;
+    display: flex;
+}
+
+.darkteal {
+    background-color: #167070;
+    padding: 40px;
+    margin: 20px;
+    padding-bottom: 20px;
+    border-radius: 100%;
+}
+
+
+
+.indicator {
+    display: flex;
+    gap: 150px;
+    background-color: #414a4f;
+    justify-content: center;
+    align-content: center;
+    margin: 3rem 29rem 3rem 29rem;
+}
+.indicator > a {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border: 10px;
+    border-radius: 20px;
+}
+.indicator > p {
+    font-size: 30px;
+    color: white;
+}
+
+
+
+.fonts {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-size: 40px;
+}
